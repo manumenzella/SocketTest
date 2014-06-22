@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8A06A24-FA99-499B-9097-35D30E09B5EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VideoPreview</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74D87EF5-A629-4E33-9A7B-BD9DF0CD6251</key>
+		<string>https://github.com/manuelmenzella/SocketTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VideoPreview/VideoPreview.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74D87EF5-A629-4E33-9A7B-BD9DF0CD6251</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manuelmenzella/SocketTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>74D87EF5-A629-4E33-9A7B-BD9DF0CD6251</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74D87EF5-A629-4E33-9A7B-BD9DF0CD6251</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocketTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

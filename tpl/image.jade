@@ -1,0 +1,11 @@
+doctype html
+html(lang="en")
+	head
+		title= "Real Time Image"
+		script(src='/imageClient.js')
+		script(src='/socket.io/socket.io.js')
+		script(src='//ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js')
+
+	body
+		div#content(style='width: 800px; height: 800px; margin: 20px; border: solid 1px #999;')
+			img#image(src='/uploads/image.jpg', style='width: 800px; height: 800px')
